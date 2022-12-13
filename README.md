@@ -29,9 +29,11 @@ He became passionate about entrepreneurship and innovation because of the impact
 As the CTO & Co-Founder of Guide, he leads a distributed organization re-imagining enterprise learning and talent development and serving underserved communities through education and technology access to building an equitable workforce and education system.
 Taban is devoting his life to creating opportunities for the next generation of innovators and creators underrepresented. His life mission is to invest in people who want to change the world through technology and innovation.
 
+
+
+
+- 🔭 I’m currently working on Family app.
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate with anyone building in the public
+
 Join our movement: guideapp.co
-
-
-🔭 I’m currently working on Family app.
-🌱 I’m currently learning Rust
-👯 I’m looking to collaborate with anyone building in the public
