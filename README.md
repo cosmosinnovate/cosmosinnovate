@@ -30,3 +30,8 @@ As the CTO & Co-Founder of Guide, he leads a distributed organization re-imagini
 Taban is devoting his life to creating opportunities for the next generation of innovators and creators underrepresented. His life mission is to invest in people who want to change the world through technology and innovation.
 
 Join our movement: guideapp.co
+
+
+🔭 I’m currently working on Family app.
+🌱 I’m currently learning Rust
+👯 I’m looking to collaborate with anyone building in the public
