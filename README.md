@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![Cosmos' GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate&show_icons=true&theme=radical)
+![Cosmos' GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate&show_icons=false&theme=radical)
 
 Taban’s life purpose, his why, is to impact the world through technology and innovation globally and create sustainable solutions that serve humanity.
 
