@@ -3,9 +3,6 @@
 <!--
 **cosmosinnovate/cosmosinnovate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Taban's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate&show_icons=true&theme=radical)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Taban's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate&show_icons=true&theme=radical)
 
 Taban’s life purpose, his why, is to impact the world through technology and innovation globally and create sustainable solutions that serve humanity.
 
