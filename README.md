@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ![Cosmos' GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmosinnovate&show_icons=true&theme=radical)
 
 
-Hi! my name is Taban C, I'm based in the Greater Seattle WA. area. I'm a father and a passionate technologist dedicated to pushing the boundaries of technology. I have over 7+ years of experience in the field building and deploying software.
+Hi! my name is Taban C, I'm based in the Greater Seattle WA. area. I'm a father and a passionate technologist dedicated to pushing the boundaries of technology. I have over 7+ years of experience in the building and deploying software.
 My expertise spans web and mobile app development, LLM/AI, backend systems, and cloud microservice deployment.
 
-- 🔭 I’m currently AI/LLM
-- 🌱 I’m mastering Go
+- 🔭 I’m currently exploring AI/LLM/GenAI
 - 👯 Lets build together
