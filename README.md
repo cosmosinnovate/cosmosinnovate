@@ -8,3 +8,5 @@ My expertise spans web and mobile app development, LLM/AI, backend systems, and 
 
 - 🔭 I’m currently exploring AI/LLM/GenAI
 - 👯 Lets build together
+
+-->
